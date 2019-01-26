@@ -4,7 +4,7 @@ A day view calendar example inspired by Google Calendar Day View.
 ## Usage
 1. Clone the repo on your local development machine.
 ``` 
-git clone https://github.com/AnjanishKumar/day-view-calander.git
+git clone https://github.com/AnjanishKumar/day-view-calendar.git
 ```
 2. Install Node.js static file server, for example [serve](https://github.com/zeit/serve) to server the pre-built files in dist folder.
 ```
